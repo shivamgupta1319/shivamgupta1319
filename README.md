@@ -14,9 +14,9 @@
 
 ### Connect with me:
 
-<a class="btn btn-lg btn-outline-primary" href="/https://www.facebook.com/profile.php?id=100006334741920/">Facebook</a><br />
-<a class="btn btn-lg btn-outline-primary" href="/https://www.instagram.com/___mr___k_i_n_g/">Instagram</a><br />
-<a class="btn btn-lg btn-outline-primary" href="/https://linkedin.com/in/shivamgupta1319/">linkedin</a>
+<a class="btn btn-lg btn-outline-primary" href="https://www.facebook.com/profile.php?id=100006334741920">Facebook</a><br />
+<a class="btn btn-lg btn-outline-primary" href="https://www.instagram.com/___mr___k_i_n_g">Instagram</a><br />
+<a class="btn btn-lg btn-outline-primary" href="https://linkedin.com/in/shivamgupta1319">linkedin</a>
 
 ### Languages and Tools:
 
