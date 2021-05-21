@@ -8,7 +8,17 @@
 
 - 👯 I’m looking to collaborate on **python based project**
 
+- 🥅 2021 Goals: **Contribute more to Open Source projects**
+
+- ⚡ Fun fact: **I love to play Mobile Games**
+
 - 📫 How to reach me **sg247938@gmail.com**
+
+<br />
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <br />
 
@@ -16,7 +26,8 @@
 <p align="left">
 <a class="btn btn-lg btn-outline-primary" href="https://www.facebook.com/profile.php?id=100006334741920">Facebook</a><br />
 <a class="btn btn-lg btn-outline-primary" href="https://www.instagram.com/___mr___k_i_n_g">Instagram</a><br />
-<a class="btn btn-lg btn-outline-primary" href="https://linkedin.com/in/shivamgupta1319">linkedin</a>
+<a class="btn btn-lg btn-outline-primary" href="https://linkedin.com/in/shivamgupta1319">linkedin</a><br />
+<a class="btn btn-lg btn-outline-primary" href="https://www.hackerrank.com/sg247938">Hackerrank</a>  
   
 <br />
   
