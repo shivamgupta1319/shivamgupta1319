@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **python based project**
 
-- 🥅 2021 Goals: **Contribute more to Open Source projects**
+- 🥅 2022 Goals: **Contribute more to Open Source projects**
 
 - ⚡ Fun fact: **I love to play Mobile Games**
 
