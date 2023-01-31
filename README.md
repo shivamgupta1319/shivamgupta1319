@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">A passionate frontend and backend web developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <br />
 
 
 - 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate on **python based project**
+- 👯 I’m looking to collaborate on **Full stack Projects**
 
-- 🥅 2022 Goals: **Contribute more to Open Source projects**
+- 🥅 2023 Goals: **Contribute more to Open Source projects**
 
 - ⚡ Fun fact: **I love to play Mobile Games**
 
