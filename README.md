@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack Projects**
 
-- 🥅 2023 Goals: **Contribute more to Open Source projects**
+- 🥅 2024 Goals: **Contribute more to Open Source projects**
 
 - ⚡ Fun fact: **I love to play Mobile Games**
 
