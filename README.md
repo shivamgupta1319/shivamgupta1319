@@ -76,7 +76,6 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamgupta1319&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgupta1319&theme=tokyonight" alt="GitHub Streak" height="180px" />
 </p>
 
